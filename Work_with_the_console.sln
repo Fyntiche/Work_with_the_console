@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_task", "1_task\1_task.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_task", "2_task\2_task.csproj", "{9F706103-BA29-474C-B9B5-3B86BAAEF929}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_task", "3_task\3_task\3_task.csproj", "{E3AE1182-E482-46A1-8639-C085B0A3647F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_task", "3_task\3_task.csproj", "{E3AE1182-E482-46A1-8639-C085B0A3647F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
