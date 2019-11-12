@@ -24,7 +24,6 @@ namespace Work_with_the_console
             DateTime date = DateTime.Now;
             int dayOfWeek = (int)date.DayOfWeek;
             string name;
-
             Console.WriteLine("Введите пожалуйста свое имя");
             name = Console.ReadLine();
            
