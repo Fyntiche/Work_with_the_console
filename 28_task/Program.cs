@@ -24,7 +24,7 @@ namespace _28_task
             {
                 summ += summ * proc/100;
             }
-            Console.WriteLine($"Сумма через 5 лет = {Math.Round(summ,3)}");
+            Console.WriteLine($"Сумма вклада через 5 лет = {Math.Round(summ,3)}");
             Console.ReadLine();
         }
     }
